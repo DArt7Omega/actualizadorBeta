@@ -23,4 +23,4 @@ Juega seguido y si quieres tu nombre podrá salir aquí con una nota tuya.
 Si el juego tarda en cargar partida, es porque es la primera vez que cargas algo en esa partida (mapa, arma, personaje, etc...).
 NOVEDAD: Nuevo Personaje en el pack de personajes de PantherTV.
 AVISO: En algún momento la actualización 5 y 6 Se volverán una sola.
-AVISO: Al iniciar el manager, este configura automaticamente FFA en Hachas, solo cámbialo si no es el que quieres jugar, Esto se corregirá en la próxima actualización.
+AVISO: Al iniciar el manager, este configura automaticamente FFA en Hachas, cámbialo si no es el que quieres jugar.
