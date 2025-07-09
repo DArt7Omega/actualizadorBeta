@@ -1,21 +1,26 @@
-VERSION=1
-ACTUALIZACIONES=5
+VERSION=2
+ACTUALIZACIONES=6
 https://drive.google.com/file/d/1CWKboxLz6W6AaJuzp7UeBEBqz25OzBqq/view?usp=drive_link
 https://drive.google.com/file/d/19FCUX-voxyRzOBv8x87obBFa1ra2__dD/view?usp=drive_link
 https://drive.google.com/file/d/161eQnKyHJ4Sj9kMReg8ddgDAU1fTPxLM/view?usp=drive_link
 https://drive.google.com/file/d/1hmlTl5Qy2iQftiyYiQX5FFuuUXOTZAB8/view?usp=drive_link
 https://drive.google.com/file/d/1AnDJhdJnn-PcGXykkdyAvsV2H_4nEI18/view?usp=drive_link
+https://drive.google.com/file/d/1h4JUQ30vbtinapF0itDhKf0bIqSe1hUw/view?usp=drive_link
 #NOTAS
 Recuerda instalar las actualizaciones en orden.
 ¿Tienes problemas? Visita el Discord de la comunidad.
 Al instalar el juego o una actualización Puede tomar unos minutos a que termine.
-Los accesos directos pueden ayudarte a iniciar más rápido.
+Los accesos directos pueden ayudarte a iniciar más rápido el juego.
 Instala WinRAR para evitar errores con archivos comprimidos.
 ArtOmega agradece tu apoyo constante.
 La instalación del juego puede ser en la ubicación que tu quieras.
 El juego base requiere 20GB aproximadamente.
 El contenido extra puede no funcionar si no estas al día con las actualizaciones.
-Si encuentras un error por favor muéstralo en el Discord en la sección de bugs-Avisos.
+Si encuentras un error por favor muéstralo en el Discord en la sección de #bugs-Avisos.
 NOVEDAD: Tu nombre ya no se borrara después de esta actualización.
 NOVEDAD: Corrección de Anthony UE, ya funciona correctamente.
 Juega seguido y si quieres tu nombre podrá salir aquí con una nota tuya.
+Si el juego tarda en cargar partida, es porque es la primera vez que cargas algo en esa partida (mapa, arma, personaje, etc...).
+NOVEDAD: Nuevo Personaje en el pack de personajes de PantherTV.
+AVISO: En algún momento la actualización 5 y 6 Se volverán una sola.
+AVISO: Al iniciar el manager, este configura automaticamente FFA en Hachas, solo cámbialo si no es el que quieres jugar, Esto se corregirá en la próxima actualización.
